@@ -1,28 +1,37 @@
-# Krishna Teja | GlobalKode Tribe
+# Krishna Teja | GlobalKode Tribe 🚀
 
-👋 Welcome to my portfolio repository.
+Welcome to my official portfolio repository!
 
-I’m a freelance developer building digital tools and solutions at GlobalKode Tribe (GKT).  
-Check out my live website: [codebyGKT.github.io/gkt-portfolio](https://codebyGKT.github.io/gkt-portfolio)
-
----
-
-## 🚀 Skills
-
-- 💻 Full-Stack Development (React, Node, MongoDB)
-- ⚙️ Automation & Scripting (Python)
-- 🤖 AI Integrations (Chatbots, NLP)
-- 🧠 Learning AI/ML and DevOps
+I am Krishna Teja, a passionate freelance developer and founder of **GlobalKode Tribe (GKT)** — a tech-driven freelancing brand focused on building global digital solutions.
 
 ---
 
-## 🧩 Projects
-
-- 🔗 [AI Recipe Builder](https://github.com/codebyGKT/recipehub)
-- 🔗 [Sentiment Analyzer](https://github.com/codebyGKT/sentiment-ci-cd)
-- 🔗 [Chess Bot](https://github.com/codebyGKT/chess-bot)
-- and more...
+## 🌐 About Me
+- 💼 Full-Stack Web Developer
+- 🤖 AI + Automation Enthusiast
+- 🎯 Mission: Code, Create, Collaborate.
 
 ---
 
-📫 Reach me: `godavarthikrishnateja@gmail.com`
+## 💡 Skills
+- ⚙️ Frontend: React, Tailwind CSS, HTML, JavaScript
+- 🔧 Backend: Node.js, Express, MongoDB
+- 🤖 AI Tools: Python, Tesseract, Chatbot APIs
+- 🚀 DevOps & CI/CD: GitHub Actions, Firebase Hosting
+
+---
+
+## 🔗 Highlight Projects
+- 🎨 [RecipeHub – Collaborative AI Recipe Builder](https://github.com/codebyGKT/recipehub)
+- 🧠 [Sentiment Analysis + CI/CD Pipeline](https://github.com/codebyGKT/sentiment-ci-cd)
+- ♟️ [Chess Bot Engine](https://github.com/codebyGKT/chess-bot)
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: godavarthikrishnateja@gmail.com
+- 🌐 GitHub: [@codebyGKT](https://github.com/codebyGKT)
+
+---
+
+> 💎 Building tech with soul. Powered by GlobalKode Tribe 💡
